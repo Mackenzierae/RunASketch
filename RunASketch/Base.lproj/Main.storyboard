@@ -61,7 +61,6 @@
                         </constraints>
                     </view>
                     <navigationItem key="navigationItem" id="yPO-HG-wgu">
-<<<<<<< HEAD
                         <nil key="title"/>
                         <barButtonItem key="leftBarButtonItem" systemItem="cancel" id="OBK-MI-eop">
                             <connections>
@@ -76,9 +75,7 @@
                             <textInputTraits key="textInputTraits"/>
                         </textField>
                         <barButtonItem key="rightBarButtonItem" title="Done" id="azZ-cE-la8"/>
-=======
-                        <barButtonItem key="leftBarButtonItem" title="Cancel" id="BON-7Y-qfF"/>
->>>>>>> master
+
                     </navigationItem>
                     <connections>
                         <outlet property="mapView" destination="T67-fi-RuA" id="YZa-Tb-GoM"/>
